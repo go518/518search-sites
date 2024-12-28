@@ -4,7 +4,7 @@
     "jsdom": "^19.0.0"
   },
   "name": "search-sites",
-  "description": "自定义搜索聚合",
+  "description": "518网址导航",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
